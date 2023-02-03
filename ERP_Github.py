@@ -3,7 +3,7 @@ import random
 import string
 
 import sys
-sys.path.append('optional if your libraries centralized')
+sys.path.append('optional if your libraries are centralized')
 
 import faker
 from faker import Faker
